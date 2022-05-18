@@ -56,3 +56,21 @@ languages to creat the clicker game.
 # Resources!
 
 http://orteil.dashnet.org/cookieclicker/
+
+# The Goal:
+
+## The goal of this challenge was to creat a clicker game:
+1. To understand JS.
+1. To learn to  work solo. 
+1. To learn how to use terminal properly. 
+1. To be able to ask for help if needed. 
+1. To now how to use git. 
+1. Have a good file structure. 
+
+
+# My personal Goal:
+
+*My goal is to learn and grow every day*
+*This challenge was quite toff*
+*The mistakes i made while creating the game make me realize how much i have learned and still need to learn*
+*Learn to use the terminal is a challenge for me as well*
